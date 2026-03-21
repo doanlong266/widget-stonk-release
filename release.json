@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "notes": "Cap nhat lai ban phat hanh 0.0.1.\n- Build lai APK release arm64-v8a tu source main hien tai\n- Sua loi crash luc mo app do thieu native library gesture handler\n- Giu co che kiem tra cap nhat lien tuc de test update flow",
+  "version": "0.0.2",
+  "notes": "Cập nhật bản 0.0.2.\n- Điều chỉnh nhẹ phần mô tả ở màn hình loading khi mở app\n- Giữ cơ chế kiểm tra cập nhật liên tục để test flow update\n- Tiếp tục dùng APK arm64-v8a ổn định trên máy thật",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
