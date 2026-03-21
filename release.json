@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
-  "notes": "Cap nhat ban thu nghiem 0.0.3.\n- Dieu chinh nhe subtitle o man launch loading de test flow cap nhat\n- Khong anh huong logic su dung chinh cua app",
+  "version": "0.0.1",
+  "notes": "Cap nhat lai ban phat hanh 0.0.1.\n- Build lai APK release arm64-v8a tu source main hien tai\n- Sua loi crash luc mo app do thieu native library gesture handler\n- Giu co che kiem tra cap nhat lien tuc de test update flow",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
