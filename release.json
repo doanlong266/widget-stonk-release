@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
-  "notes": "Cap nhat ban phat hanh 0.0.1.\n- Them luong app update tu release.json public\n- Them man launch loading theo phong cach onboarding\n- Giu loading it nhat 5 giay va co the lau hon neu du lieu chua tai xong\n- Lam dep lai bo cuc quote, canh giua va tach tac gia xuong dong",
+  "version": "0.0.2",
+  "notes": "Cap nhat ban phat hanh 0.0.2.\n- Them co che thong bao cap nhat tu release.json public\n- Them launch loading theo phong cach onboarding khi mo app\n- Giu launch loading toi thieu 5 giay va lau hon neu du lieu chua san sang\n- Canh giua va lam dep phan quote, bo badge KPW, tach tac gia xuong dong",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
