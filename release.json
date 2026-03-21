@@ -1,0 +1,5 @@
+{
+  "version": "0.0.1",
+  "notes": "Ban dau phat hanh APK arm64-v8a.\n- Ho tro giao dien sang toi\n- Ho tro tieng Viet va tieng Anh\n- Them thong bao cap nhat trong app",
+  "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
+}
