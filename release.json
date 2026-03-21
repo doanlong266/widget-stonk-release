@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
-  "notes": "Cap nhat ban phat hanh 0.0.2.\n- Them co che thong bao cap nhat tu release.json public\n- Them launch loading theo phong cach onboarding khi mo app\n- Giu launch loading toi thieu 5 giay va lau hon neu du lieu chua san sang\n- Canh giua va lam dep phan quote, bo badge KPW, tach tac gia xuong dong",
+  "version": "0.0.3",
+  "notes": "Cap nhat ban thu nghiem 0.0.3.\n- Dieu chinh nhe subtitle o man launch loading de test flow cap nhat\n- Khong anh huong logic su dung chinh cua app",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
