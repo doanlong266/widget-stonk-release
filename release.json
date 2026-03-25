@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
-  "notes": "Cập nhật bản 0.0.2.\n- Điều chỉnh nhẹ phần mô tả ở màn hình loading khi mở app\n- Giữ cơ chế kiểm tra cập nhật liên tục để test flow update\n- Tiếp tục dùng APK arm64-v8a ổn định trên máy thật",
+  "version": "0.0.3",
+  "notes": "Cập nhật bản 0.0.3.\n- Thay widget Android native cũ bằng react-native-android-widget\n- Thêm widget Portfolio mới và đồng bộ dữ liệu từ app ra màn hình chính\n- Cập nhật APK arm64-v8a để cài và test ổn định trên máy thật",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
