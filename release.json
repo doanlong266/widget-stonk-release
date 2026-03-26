@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
-  "notes": "Cập nhật bản 0.0.3.\n- Đồng bộ version trong app và APK lên 0.0.3 để không lặp thông báo cập nhật\n- Thay widget Android native cũ bằng react-native-android-widget\n- Thêm widget Portfolio mới và đồng bộ dữ liệu từ app ra màn hình chính",
+  "version": "0.0.4",
+  "notes": "Cập nhật bản 0.0.4.\n- Tự động hỏi quyền thông báo khi mở ứng dụng.\n- Thông báo biến động giá giờ hiển thị đúng giá trước đó và giá hiện tại sau mỗi lần cập nhật.\n- Giao diện Tài khoản được gọn hơn sau khi bỏ nút kiểm tra thông báo local.",
   "apkUrl": "https://raw.githubusercontent.com/doanlong266/widget-stonk-release/main/app-arm64-v8a-release.apk"
 }
